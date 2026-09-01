@@ -145,5 +145,3 @@
 - `gh.exe`はフルパス（`C:\Users\bboyi\AppData\Local\GitHubCLI\bin\gh.exe`）で直呼びする。
 - セッション終了通知＋フォーカス復帰の仕組みが常駐している。詳細は`~/.claude/hooks/claude-toast-focus-architecture.html`。
 
-
-<!-- sync-test-marker -->
